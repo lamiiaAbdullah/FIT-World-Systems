@@ -32,7 +32,7 @@ FIT World provides a comprehensive platform that includes:
 - **Type:** Mobile Application (Concept & UI Design)
 
 ## 👥 Team
-- Lamia Abdallah Al-Shamrani
+- Lamia Al-Shamrani
 - Sara Aljaddou
 - Shahad Aljotail
 - Ghala Alqhtani
